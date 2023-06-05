@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01?type=design&node-id=1-2&t=xQVuuWX3hHsTzte3-0)](https://www.figma.com/file/cYtvjCy4Q9g07d1felU6Ex/Projeto01-Extra-(Copy)?type=design&node-id=0%3A1&t=mAfe5bNYFvP5mmXP-1)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+O layout do projeto foi desenvolvido pelos instrutores da Rocketseat como parte do material de estudos do curso Explorer. 
 
 ## 🪪 Licença
 
